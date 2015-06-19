@@ -14,11 +14,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The original data is available at:
   [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.html) 
 The output dataset merges the training and test data. It includes the mean and standard deviation for each measurement. It labels the columns with descriptive names, and generates descriptive activity names as follows: 
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
 
